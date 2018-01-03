@@ -1,0 +1,26 @@
+body{
+	background-color: papayawhip;
+	margin: 100px;
+}
+div.box{
+	height: 100px;
+	width: 100px;
+	border: 1px solid black;
+	background-color: cyan;
+}
+div.box#box1:hover{
+	transform: scale(4,2);
+	transition-duration: 3s;
+}
+div.box#box2:hover{
+	transform: translate(300px,200px);
+	transition-duration: 3s;
+}
+div.box#box3:hover{
+	transform: rotate(60deg);
+	transition-duration: 3s;
+}
+div.box#box4:hover{
+	transform: skewY(60deg);
+	transition-duration: 3s;
+}

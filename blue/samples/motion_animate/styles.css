@@ -1,0 +1,39 @@
+div#box{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  background-color: black;
+  border: 10px double yellow;
+}
+
+div#box{
+  -webkit-animation-name: roll;
+  -webkit-animation-duration: 10s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+/*  -webkit-animation-fill-mode: forwards;
+*/}
+
+@keyframes roll {
+  0% {
+    margin-left: 0px;
+    margin-top: 0px;
+  }
+  25%{
+  	margin-left: 750px;
+  	margin-top: 0px;
+
+  }
+  50%{
+  	margin-left: 750px;
+  	margin-top: 300px;
+  }
+  75%{
+  	margin-left: 0px;
+  	margin-top: 300px;
+  }
+  100%{
+  	margin-left: 0px;
+  	margin-top: 0px;
+  }
+}
