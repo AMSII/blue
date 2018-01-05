@@ -1,6 +1,6 @@
-# New Visions
+# AMS II - Blue
 
-## This is for New Visions Charter HS
+## This is for AMSII 2017-2018 Intro to Coding
 
 ### Resources:
 
@@ -10,6 +10,3 @@ w3 schools (good resource for HTML, CSS, JS).<br><br>
 MDN (good front end resource).<br><br>
 <a href="http://htmlcolorcodes.com/">Color Wheel</a><br>
 Good color wheel (hex, rgb, named colors)
-
-
-*al*
