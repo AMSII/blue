@@ -17,7 +17,7 @@
 
 Think about an Object like you would a person.  
 
-<h2>Andrew</h2>
+<h3>Andrew</h3>
 
 Andrew is a person.  This person has unique properties.
 
@@ -29,7 +29,7 @@ Andrew...
 
 These properties *ONLY* belong to Andrew.
 
-<h2>Gabby</h2>
+<h3>Gabby</h3>
 
 Gabby is also a person.  This person has unique properties.
 
