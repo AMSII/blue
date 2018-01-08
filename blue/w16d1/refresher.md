@@ -1,6 +1,6 @@
 # Refresher!
 
-## Do the following!  If you finish all the steps, you'll get 20 bonus points to our pre-break assignment!
+## Do the following!  If you finish all the steps, you'll get 20 bonus points to our pre-break assignment!  Call me over when you're done (have the JS console open in Chrome)
 
 1. Create a folder called "Refresher" in your "name" folder on your Desktop.
 

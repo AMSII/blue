@@ -6,4 +6,6 @@
 
 ## When you're done, press go back to W16D1 and open refresher.md
 
+Complete the assignment!
+
 ### P.S. Permission Slips ASAP please!
