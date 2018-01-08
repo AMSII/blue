@@ -13,6 +13,34 @@
 - Objects allow us to be DRYer 
 	- Reminder: DRY = Don't Repeat Yourself!  
 
+## Objects... objectively
+
+Think about an Object like you would a person.  
+
+<h2>Andrew</h2>
+
+Andrew is a person.  This person has unique properties.
+
+Andrew...
+- is 27 years old
+- from New Jersey
+- enjoys coffee on the reg
+- likes sports
+
+These properties *ONLY* belong to Andrew.
+
+<h2>Gabby</h2>
+
+Gabby is also a person.  This person has unique properties.
+
+Gabby...
+- is 22 years old
+- is from Long Island
+- can't drink coffee
+- only likes soccer
+
+Therefore, while these two "things" are under the same category "people", each of them possesses their own unique properties.  These "things" that we're referring to are perfect analogies for JavaScript Objects.
+
 ## JavaScript Objects
 
 Objects are a type of data structure that is nearly universal across programming languages, although they may have different names in different languages...
