@@ -6,6 +6,14 @@ This article shows how coding, analytics, and sports all collide as one.  It's r
 
 <h3>http://blog.masslive.com/patriots/2018/01/sean_harrington_patriots_engin_1.html</h3>
 
+### Note:
+
+I need SLIPS from...
+
+Damal, Z, Fatou, Brandon Chamarro, Isaac, Oscar, Julian, John, Kelstin, Natalie, Taina.
+
+Please please please ASAP!  
+
 ### Learning Objectives
 
 - Compare JS objects vs arrays
@@ -134,7 +142,6 @@ const people = [andrew,gabby,stefan]; // Array of Objects
 
 console.log(people);
 ```
-
 
 ### Accessing Object Properties
 
