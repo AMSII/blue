@@ -37,9 +37,9 @@ Andrew is a person.  This person has unique properties.
 
 Andrew...
 - is 27 years old
-- from New Jersey
+- is from New Jersey
 - enjoys coffee on the reg
-- likes sports
+- likes all sports
 
 These properties *ONLY* belong to Andrew.
 
