@@ -4,7 +4,29 @@
 - Introduce constructor functions
 - Discuss object methods
 
-## Creating New Objects
+### Do Now
+
+Create an object housed within the variable `myCar`, and add the following keys.
+
+- `make`
+- `model`
+- `year`
+
+Fill in the values with information of your choice.
+
+A sample object...
+
+```js
+const andr = {
+	name: "Andrew",
+	age: 27,
+	cool: true
+}
+```
+
+*Hint: there is no comma inserted after the last key/value pair*
+
+### Creating New Objects
 
 There are four types of ways to create new objects...
 
@@ -47,11 +69,12 @@ If this is confusing, it's cool. We'll pass this again and often.
 const myDog = {};
 ```
 
-I've just created a brand new blank object using object literal notation and set it to a variable called myDog.
+I've just created a brand new blank object using object literal notation and set it to a variable called myDog.  You can populate it with information later on in the program, if you'd wish.
 
 *Remember, use `const` when creating a new variable for the first time*
 
 ##### Constructor Function
+
 Constructors are SUPER Important and we'll most likely have to cover this topic again.
 
 - The constructor function is used in conjunction with the keyword `new` to instantiate new objects of a specified type.
@@ -61,14 +84,33 @@ Constructors are SUPER Important and we'll most likely have to cover this topic 
 - The name of the constructor function should always be Capital
 
 ```js
+// blueprint for dogs
 function Dog(name, breed) {
 	this.name = name,
 	this.breed = breed
 };
 
+// a singular dog
 const andrewsDog = new Dog("Sammi", "Maltese");
 console.log(andrewsDog);
 ```
+
+<img src="images/constructor.png">
+
+### Exercise:
+
+1. Add 2 new dogs.
+2. After you've created your dogs, add an age to ONLY the first one.  Dot notation, remember?
+
+```js
+const andr = {
+	name: "Andrew"
+}
+andr.age = 27;
+console.log(andr);
+```
+
+3. Add a `favoriteFood` to your second one.
 
 RECAP:
 - The constructor is a blueprint. You use it create instances of new objects of that blueprint.
@@ -110,6 +152,8 @@ const andrewsDog = {
 	age: 16
 };
 ```
+
+Below is how we can iterate through each key.
 
 ```js
 const showMeKeys = function(object) {
