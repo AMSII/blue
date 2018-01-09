@@ -62,6 +62,8 @@ In essence, what we're talking about are key/value pairs.
 
 Just to rehash...
 
+Below is what we'd call an array.  This array houses a bunch of Strings, a data type predetermined by JavaScript. 
+
 ```js
 const arr = ["Andrew","Gabby","Brian","Sarah","Kyra","Fatou"];
 
@@ -73,15 +75,17 @@ console.log(arr[4]); // "Kyra"
 console.log(arr[5]); // "Fatou"
 ```
 
+Objects are their own separate data type.
+
 Objects consist of keys and values
 - Keys are unique
-- Values can be common
+- Values can be common values (i.e. strings, numbers, booleans...)
 
 ```js
-const obj = {
-	key1: "bla",
-	key2: "bla2",
-	key3: "bla3"
+const obj1 = {
+	key1: "name"
+	key2: 20,
+	key3: true
 }
 ```
 
