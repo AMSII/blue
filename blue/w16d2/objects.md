@@ -1,5 +1,11 @@
 # Objects
 
+## If you want a read...
+
+This article shows how coding, analytics, and sports all collide as one.  It's really interesting, and I think a bunch of you will be curious to know how big time franchises implement coding/programming into their day to day operations.
+
+<h3>http://blog.masslive.com/patriots/2018/01/sean_harrington_patriots_engin_1.html</h3>
+
 ### Learning Objectives
 
 - Compare JS objects vs arrays
