@@ -10,7 +10,7 @@ This article shows how coding, analytics, and sports all collide as one.  It's r
 
 I need SLIPS from...
 
-Damal, Z, Fatou, Brandon Chamarro, Isaac, Oscar, Julian, John, Kelstin, Natalie, Taina.
+<h3> Damal, Z, Fatou, Brandon Chamarro, Isaac, Oscar, Julian, John, Kelstin, Natalie, Taina. </h3>
 
 Please please please ASAP!  
 
