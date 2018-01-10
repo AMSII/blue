@@ -14,7 +14,7 @@ Create an object housed within the variable `myCar`, and add the following keys.
 
 Fill in the values with information of your choice.
 
-A sample object...
+A sample object, as a refresher...
 
 ```js
 const andr = {
@@ -81,7 +81,7 @@ Constructors are SUPER Important and we'll most likely have to cover this topic 
 	- Think of it as a blueprint.
 	- You can use the keyword `new` to instantiate (create an instance, kinda like how in Star trek they materialize new food out of thin air) of the specified constructor.
 - The constructor is a function
-- The name of the constructor function should always be Capital
+- The name of the constructor function should always start with a Capital Letter.
 
 ```js
 // blueprint for dogs
@@ -99,8 +99,8 @@ console.log(andrewsDog);
 
 ### Exercise:
 
-1. Add 2 new dogs.
-2. After you've created your dogs, add an age to ONLY the first one.  Dot notation, remember?
+1. Create 2 new dogs.
+2. After you've created your dogs, add an age key to ONLY the first one.  Dot notation, remember?
 
 ```js
 const andr = {
@@ -110,7 +110,7 @@ andr.age = 27;
 console.log(andr);
 ```
 
-3. Add a `favoriteFood` to your second one.
+3. Add a `favoriteFood` key to your second one.
 
 RECAP:
 - The constructor is a blueprint. You use it create instances of new objects of that blueprint.
