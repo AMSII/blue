@@ -77,7 +77,7 @@ I've just created a brand new blank object using object literal notation and set
 
 Constructors are SUPER Important and we'll most likely have to cover this topic again.
 
-- The constructor function is used in conjunction with the keyword `new` to instantiate new objects of a specified type.
+- The constructor function is used in conjunction with the keyword `new` to instantiate new objects of a specified "type".
 	- Think of it as a blueprint.
 	- You can use the keyword `new` to instantiate (create an instance, kinda like how in Star trek they materialize new food out of thin air) of the specified constructor.
 - The constructor is a function
@@ -128,6 +128,7 @@ const myCar = {
 	make: "Acura",
 	color: "Silver",
 	vroom: function() {
+	  console.log('VROOM VROOM!!!')
 		alert('VROOM VROOM!');
 	}
 };
@@ -135,6 +136,20 @@ const myCar = {
 console.log(myCar);
 myCar.vroom();
 ```
+
+<img src="images/vroom.png">
+
+### Exercise:
+
+Create 3 objects, each one named after an animal.
+
+Populate the objects with the keys...
+
+- `name`
+- `cuteness_level` 
+- `gender`
+
+Each of these animals should have a function that screams their respective noise!
 
 ### Iterating over keys of an object
 Let's create a function that can iterate over an object's keys.
