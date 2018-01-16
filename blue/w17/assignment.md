@@ -10,10 +10,10 @@ Seeing as how this week is RTR, and the periods are shortened, and most of you w
 
 Choose one of these two games to complete by Friday.  Show me that you've completed it to earn the maximum points.
 
-<h1>This one is called CSS Diner.  This will teach you about the different types of CSS Selectors</h1>
+<h2>This one is called CSS Diner.  This will teach you about the different types of CSS Selectors</h2>
 
-<h2>https://flukeout.github.io/</h2> 
+<h3>https://flukeout.github.io/</h3> 
 
-<h1>This one is called Flexbox Froggy.  This is the game Jon played with his team.  This will teach you about dynamically moving your elements around the page using a property called "Flexbox".</h1>
+<h2>This one is called Flexbox Froggy.  This is the game Jon played with his team.  This will teach you about dynamically moving your elements around the page using a property called "Flexbox".</h2>
 
-<h2>http://flexboxfroggy.com/</h2>
+<h3>http://flexboxfroggy.com/</h3>
