@@ -17,9 +17,43 @@ Learning about the DOM and how it fits into the front end (visually what the use
 
 ### Okay, so what exactly is the Document Object Model?
 
-- The Document Object Model (DOM) is an application programming interface (API) for HTML and XML documents. It defines the logical structure of documents and the way a document is accessed and manipulated.  It represents the page so that programs can change the document structure, style, and content. The DOM represents the document as nodes and objects. That way, programming languages can connect to the page.
+- The Document Object Model (DOM) is an application programming interface (API) for HTML and XML documents. It defines the logical structure of documents and the way a document is accessed and manipulated.  It represents the page so that programs can change the document structure, style, and content. The DOM represents the document (document = "a Web Page") as nodes and objects. That way, programming languages can connect to the page.
 
-- The "Document", in this case, is any web page.  
+- The best way to conceptualize DOM is as a "tree".  There is a "hierarchy" attached to this.
 
 <img src="images/dom1.jpg">
+
+If you look at this diagram, and again below in HTML form...
+
+```html
+<!-- initial HTML tag  -->
+<!DOCTYPE html> 
+<html>
+
+<!-- initial head tag  -->
+<head> 
+	<title>Sample Title</title>
+</head> 
+<!-- closing head tag  -->
+
+<!-- initial body tag  -->
+<body> 
+	<h1>Example Page</h1>
+	<p>This is an example page</p>
+</body>
+<!-- closing body tag  -->
+
+</html> 
+<!-- closing HTML tag  -->
+```
+
+An entire HTML page stems from the `<html>` tag.  
+
+<hr>
+
+Save an `index.html`, `styles.css`, and `scripts.js` into a folder called "DOM 1".
+
+
+
+
 
