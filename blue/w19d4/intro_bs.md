@@ -90,3 +90,45 @@ Notice that there are all these new tags?  Thank Bootstrap for that.  All 3 of t
 ### More Typography stuff...
 
 <a href="https://www.w3schools.com/bootstrap4/bootstrap_typography.asp">https://www.w3schools.com/bootstrap4/bootstrap_typography.asp</a>
+
+## Dropdowns
+
+Dropdown menus are overlays accessed by *clicking*, used to display links and more!  The secret is that there is JavaScript being executed, but you don't write the code - it's prebuilt for you.
+
+Dropdowns in particular are enabled by *popper.js*, utilized by this link at the bottom of the body.
+
+```html
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+```
+
+### Single Drop
+
+```html
+<div class="dropdown">
+  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Search Engines
+  </button>
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    <a class="dropdown-item" href="http://www.google.com">Google</a>
+    <a class="dropdown-item" href="http://www.yahoo.com">Yahoo</a>
+    <a class="dropdown-item" href="http://www.msn.com">MSN</a>
+  </div>
+</div>
+```
+
+Notice all the different attributes this single button has.
+
+- `class`
+- `type`
+- `id`
+- `data-toggle`
+- `aria-haspopup`
+- `aria-expanded`
+
+P.S.
+```
+Accessible Rich Internet Applications (ARIA) defines ways to make Web content and Web applications (especially those developed with Ajax and JavaScript) more accessible to people with disabilities.
+```
+
+<img src="images/drop1.png">
+
