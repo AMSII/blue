@@ -22,3 +22,9 @@ Here's the agenda for the next couple of weeks.
 Or you can play this game... it's actually pretty entertaining.
 
 <a href="http://www.flexboxdefense.com/">Flexbox Defense</a>
+
+### OR
+
+<a href="https://codecombat.com/students?_cc=HideMixTurn">Code Combat</a>
+
+Try logging into this and see what happens.  Try playing!
