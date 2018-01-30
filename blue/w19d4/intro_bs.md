@@ -79,3 +79,14 @@ Look at these different types of text.
 Notice that there are all these new tags?  Thank Bootstrap for that.  All 3 of these statements are different from one another.
 
 <img src="images/cardi.png">
+
+### Practice
+
+- Include a `<h1>` that is your name
+- Include a header using the class `display-2`.  Write what your favorite snack is.
+- Include a `<blockquote>`.  Write your senior quote in that.
+
+
+### More Typography stuff...
+
+<a href="https://www.w3schools.com/bootstrap4/bootstrap_typography.asp">https://www.w3schools.com/bootstrap4/bootstrap_typography.asp</a>
