@@ -101,6 +101,34 @@ Dropdowns in particular are enabled by *popper.js*, utilized by this link at the
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 ```
 
+### Buttons
+
+There are quite a few button "types"...
+
+```html
+<button type="button" class="btn btn-primary">Primary</button>
+
+<!-- Secondary, outline button -->
+<button type="button" class="btn btn-secondary">Secondary</button>
+
+<!-- Indicates a successful or positive action -->
+<button type="button" class="btn btn-success">Success</button>
+
+<!-- Contextual button for informational alert messages -->
+<button type="button" class="btn btn-info">Info</button>
+
+<!-- Indicates caution should be taken with this action -->
+<button type="button" class="btn btn-warning">Warning</button>
+
+<!-- Indicates a dangerous or potentially negative action -->
+<button type="button" class="btn btn-danger">Danger</button>
+
+<!-- Deemphasize a button by making it look like a link while maintaining button behavior -->
+<button type="button" class="btn btn-link">Link</button>
+```
+
+<img src="images/button1.png">
+
 ### Single Drop
 
 ```html
@@ -126,9 +154,56 @@ Notice all the different attributes this single button has.
 - `aria-expanded`
 
 P.S.
-```
+
 Accessible Rich Internet Applications (ARIA) defines ways to make Web content and Web applications (especially those developed with Ajax and JavaScript) more accessible to people with disabilities.
-```
 
 <img src="images/drop1.png">
+
+### Multi Drop
+
+Notice the similarities, and the differences, between the below example and the example above.
+
+```html
+<div class="btn-group">
+  <button type="button" class="btn btn-warning dropdown-toggle" 
+  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Settings
+  </button>
+  <div class="dropdown-menu">
+    <a class="dropdown-item" href="#">Action</a>
+    <a class="dropdown-item" href="#">Another action</a>
+    <a class="dropdown-item" href="#">Something else here</a>
+    <div class="dropdown-divider"></div>
+    <a class="dropdown-item" href="#">Separated link</a>
+  </div>
+</div>
+<div class="btn-group">
+  <button type="button" class="btn btn-success dropdown-toggle" 
+  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Help
+  </button>
+  <div class="dropdown-menu">
+    <a class="dropdown-item" href="#">Action</a>
+    <a class="dropdown-item" href="#">Another action</a>
+    <a class="dropdown-item" href="#">Something else here</a>
+    <div class="dropdown-divider"></div>
+    <a class="dropdown-item" href="#">Separated link</a>
+  </div>
+</div>
+<div class="btn-group">
+  <button type="button" class="btn btn-info dropdown-toggle" 
+  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Profile
+  </button>
+  <div class="dropdown-menu">
+    <a class="dropdown-item" href="#">Action</a>
+    <a class="dropdown-item" href="#">Another action</a>
+    <a class="dropdown-item" href="#">Something else here</a>
+    <div class="dropdown-divider"></div>
+    <a class="dropdown-item" href="#">Separated link</a>
+  </div>
+</div>
+```
+
+<img src="images/drop2.png">
 
