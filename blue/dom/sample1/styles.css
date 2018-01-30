@@ -1,0 +1,47 @@
+body{
+	background-color: papayawhip;
+	text-align: center;
+	margin: 150px;
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	margin-top: 50px;
+}
+li{
+	margin-top: 20px;
+	font-size: 30px;
+	font-family: "Cairo", sans-serif;
+}
+button{
+	margin-top: 40px;
+}
+h1{ 
+	font-size: 80px;
+}
+
+h1#lovey{
+	color: lightblue;
+}
+h1#hatey{
+	color: red;
+}
+li{
+	font-size: 20px;
+}
+body#light{
+	background: #667db6;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+body#dark{
+	background: #232526;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.dark{
+	color: white;
+}

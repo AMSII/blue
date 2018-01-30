@@ -1,0 +1,18 @@
+body{
+	background: linear-gradient(to right, #414345, #232526);
+	text-align: center;
+	margin: 150px;
+}
+
+input#input{
+	width: 300px;
+	height: 40px;
+}
+
+h1{
+	color: white;
+}
+
+h2{
+	color: skyblue;
+}

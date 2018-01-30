@@ -14,6 +14,87 @@ In other words, DOM and DOM manipulation is what allows websites to basically do
 
 Learning about the DOM and how it fits into the front end (visually what the user sees) also provides us a window into a bit more of how the internet works. This is obviously super important to our understanding of what we are learning and how it will fit into the entire web dev process as a whole.
 
+### Intro Example
+
+I'm going to show you an sample of what we'll be able to do with this concept.
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	<link href="https://fonts.googleapis.com/css?family=Cairo" rel="stylesheet">
+
+</head>
+<body>
+	<h1 id="header"></h1>
+		<ul>
+			<li id="list1"></li>
+			<li id="list2"></li>
+			<li id="list3"></li>
+			<li id="list4"></li>
+		</ul>
+	<button id="button" class="btn btn-success">Click me!</button>
+	<script type="text/javascript" src="scripts.js"></script>
+</body>
+</html>
+```
+
+```css
+body{
+	background-color: papayawhip;
+	text-align: center;
+	margin: 150px;
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	margin-top: 50px;
+}
+li{
+	margin-top: 20px;
+	font-size: 30px;
+	font-family: "Cairo", sans-serif;
+}
+button{
+	margin-top: 40px;
+}
+h1{ 
+	font-size: 80px;
+}
+
+h1#lovey{
+	color: lightblue;
+}
+h1#hatey{
+	color: red;
+}
+li{
+	font-size: 20px;
+}
+body#light{
+	background: #667db6;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+body#dark{
+	background: #232526;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.dark{
+	color: white;
+}
+```
+
+
+
+
 
 ### Okay, so what exactly is the Document Object Model?
 
