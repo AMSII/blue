@@ -89,7 +89,7 @@ Notice that there are all these new tags?  Thank Bootstrap for that.  All 3 of t
 
 ### More Typography stuff...
 
-<a href="https://www.w3schools.com/bootstrap4/bootstrap_typography.asp">https://www.w3schools.com/bootstrap4/bootstrap_typography.asp</a>
+<h3><a href="https://www.w3schools.com/bootstrap4/bootstrap_typography.asp">https://www.w3schools.com/bootstrap4/bootstrap_typography.asp</a></h3>
 
 ## Dropdowns
 
@@ -207,3 +207,8 @@ Notice the similarities, and the differences, between the below example and the 
 
 <img src="images/drop2.png">
 
+### Exercise
+
+Create a dropdown menu and include 3 or 4 websites you go to on a regular basis.  Make sure you name the menu something relevant.
+
+<h3><a href="https://www.w3schools.com/bootstrap4/bootstrap_dropdowns.asp">https://www.w3schools.com/bootstrap4/bootstrap_dropdowns.asp</a></h3>
