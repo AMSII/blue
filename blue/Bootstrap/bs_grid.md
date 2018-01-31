@@ -113,7 +113,11 @@ Below is a simplified diagram of what I'm talking about.
 
 <img src="images/grid3.png">
 
-## Col Sizes.
+## Column Sizes.
+
+Generally, when working on a desktop web version of your site, the column sizes don't particularly matter.  However, when you're looking on your cell phone or tablet, then the type of column you choose becomes important.
+
+This is how it's generally broken down.
 
 |  			 | Extra Small | Small | Medium | Large | Extra Large |
 | ------ | ----------- | ------| ------ | ----- | -----------
@@ -121,3 +125,82 @@ Below is a simplified diagram of what I'm talking about.
 | class prefix | .col- | .col-sm- | .col-md- | .col-lg- | .col-xl-
 | max columns  |  12	| 12 | 12 | 12 | 12																			 
 
+## Utilizing different sizes.
+
+While remembering that the grid is 12 units wide, what if I want a middle column to be bigger than the ends?
+
+### Exercise
+
+Try to make this picture come to life:
+
+<img src="images/grid4.png">
+
+*Hint: ```.col-x```, where x is how many units wide you want the column to be*
+
+## Grid + Flexbox
+
+You can put your columns wherever you want to!  This is courtesy of flexbox.
+
+Check this out:
+
+```html
+<div class="container">
+  <div class="row align-items-start" id="row">
+    <div class="col">
+      A column
+    </div>
+    <div class="col">
+      A column
+    </div>
+    <div class="col">
+      A column
+    </div>
+  </div>
+  <div class="row align-items-center" id="row">
+    <div class="col">
+      A column
+    </div>
+    <div class="col">
+      A column
+    </div>
+    <div class="col">
+      A column
+    </div>
+    <div class="col">
+      A column
+    </div>
+  </div>
+  <div class="row align-items-end" id="row">
+    <div class="col">
+      A column
+    </div>
+    <div class="col-5">
+      A column
+    </div>
+    <div class="col">
+      A column
+    </div>
+  </div>
+</div>
+```
+
+```css
+div{
+	height: 50px;
+}
+div#row{
+	margin-top: 30px;
+	border: 1px solid black;
+	height: 99px;
+	background-color: teal;
+}
+div.col, .col-5{
+	border: 1px solid black;
+	height: 33px;
+	background-color: skyblue;
+}
+```
+
+And this produces...
+
+<img src="images/grid5.png">
