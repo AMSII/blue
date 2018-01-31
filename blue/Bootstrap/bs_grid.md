@@ -217,3 +217,4 @@ Hints:
 - `.col` height = `500px`
 - you can set `id` alongside `class`
 
+<h2><a href="https://www.w3schools.com/bootstrap4/bootstrap_grid_basic.asp">W3 Schools Grid Bootstrap</a></h2>
