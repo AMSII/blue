@@ -21,13 +21,13 @@ In the `<body>`...
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      One of three columns
+      A column
     </div>
     <div class="col-sm">
-      One of three columns
+      A column
     </div>
     <div class="col-sm">
-      One of three columns
+      A column
     </div>
   </div>
 </div>
@@ -57,5 +57,43 @@ div.col-sm{
 
 You're going to see something like...
 
-<img src="images/grid1.png">
+<img src="images/grid.png">
+
+Interesting...
+
+What if we add another `col-sm`.
+
+```
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      A column
+    </div>
+    <div class="col-sm">
+      A column
+    </div>
+    <div class="col-sm">
+      A column
+    </div>
+    <div class="col-sm">
+      A column
+    </div>
+  </div>
+</div>
+```
+
+This translates to...
+
+<img src="images/grid2.png">
+
+<b>NOTE</b> how the columns are automatically resizing?  Thank Flexbox for that.
+
+### Exercise
+
+Add a 5th column, then a 6th column.
+
+Give the 5th column it's own separate background color.  What might we have to do?
+
+*Hint: Think about the thing you need to swipe into school every day*
+
 
