@@ -1,10 +1,15 @@
 .demo-content{
-    padding: 15px;
+    padding: 10px;
     font-size: 18px;
-    min-height: 300px;
+    min-height: 50px;
     background: #dbdfe5;
-    margin-bottom: 10px;
+    margin: 10px;
 }
 .demo-content.bg-alt{
     background: #abb1b8;
+}
+
+.container{
+	margin-top: 10px;
+	background-color: lightpink;
 }
