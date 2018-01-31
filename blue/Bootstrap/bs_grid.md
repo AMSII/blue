@@ -88,6 +88,8 @@ This translates to...
 
 <b>NOTE</b> how the columns are automatically resizing?  Thank Flexbox for that.
 
+*Note 2: All the columns are within a div with class 'row'.  'Row' pretty much means new line*
+
 
 ### Exercise
 
@@ -204,3 +206,14 @@ div.col, .col-5{
 And this produces...
 
 <img src="images/grid5.png">
+
+### Exercise
+
+Replicate the below image.
+
+<img src="images/assign.png">
+
+Hints:
+- `.col` height = `500px`
+- you can set `id` alongside `class`
+
