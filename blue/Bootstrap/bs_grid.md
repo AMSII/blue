@@ -119,5 +119,5 @@ Below is a simplified diagram of what I'm talking about.
 | ------ | ----------- | ------| ------ | ----- | -----------
 | Max Width | auto |    540px |    720px | 960px | 1140px
 | class prefix | .col- | .col-sm- | .col-md- | .col-lg- | .col-xl-
-| max columns  |  12																				 
+| max columns  |  12	| 12 | 12 | 12 | 12																			 
 
