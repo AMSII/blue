@@ -113,3 +113,11 @@ Below is a simplified diagram of what I'm talking about.
 
 <img src="images/grid3.png">
 
+## Col Sizes.
+
+|  			 | Extra Small | Small | Medium | Large | Extra Large |
+| ------ | ----------- | ------| ------ | ----- | -----------
+| Max Width | auto |    540px |    720px | 960px | 1140px
+| class prefix | .col- | .col-sm- | .col-md- | .col-lg- | .col-xl-
+| max columns  |  12																				 |
+
