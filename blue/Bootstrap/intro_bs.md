@@ -91,6 +91,28 @@ Notice that there are all these new tags?  Thank Bootstrap for that.  All 3 of t
 
 <h3><a href="https://www.w3schools.com/bootstrap4/bootstrap_typography.asp">https://www.w3schools.com/bootstrap4/bootstrap_typography.asp</a></h3>
 
+## Jumbotron
+
+<img src="images/jumbo1.png">
+
+Jumbotron works exactly the way you think it would - a BIG container to display something you'd want to get extra attention.
+
+```html
+<div class="jumbotron">
+    <h1 class="display-4">Hello, world!</h1>
+    <p class="lead">This is a simple *hero* unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+    <hr class="my-3">
+    <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+    <p class="lead">
+      <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+    </p>
+</div>
+```
+
+Practice this by inserting your own information.
+
+<h3><a href="https://www.w3schools.com/bootstrap4/bootstrap_jumbotron.asp">https://www.w3schools.com/bootstrap4/bootstrap_jumbotron.asp</a></h3>
+
 ## Dropdowns
 
 Dropdown menus are overlays accessed by *clicking*, used to display links and more!  The secret is that there is JavaScript being executed, but you don't write the code - it's prebuilt for you.
