@@ -93,7 +93,7 @@ Notice that there are all these new tags?  Thank Bootstrap for that.  All 3 of t
 
 ## Jumbotron
 
-<img src="images/jumbo1.png">
+<img src="images/jumbo2.png">
 
 Jumbotron works exactly the way you think it would - a BIG container to display something you'd want to get extra attention.
 
