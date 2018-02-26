@@ -35,7 +35,7 @@ II: body container
 
 ### P.S. 
 
-In the jumbotron, you can see 3 little dots.  This is the carousel.  
+In the jumbotron in the above picture, you can see 3 little dots.  This is the carousel.  
 
 Read this: <a href="https://www.w3schools.com/bootstrap4/bootstrap_carousel.asp.asp">https://www.w3schools.com/bootstrap4/bootstrap_carousel.asp</a>
 
