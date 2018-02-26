@@ -10,13 +10,15 @@ If you did NOT submit your website on <b>THURSDAY</b>, Feb 15, you must submit y
 
 ## 2.
 
-If you're not at Level <b>350</b> in Typing Club, you must get there by <b>Wednesday, Feb 28</b> for <b>25 points off</b>  You had an opportunity during the break to finish this, as this could have been done at home very easily.  If you're not at 350 by Wednesday, you will be getting a 55!  No exceptions.
+If you're not at Level <b>350</b> in Typing Club, you must get there by <b>today</b> for <b>25 points off</b>  You had an opportunity during the break to finish this, as this could have been done at home very easily.  If you're not at 350 by end of day today, you will be getting a 55!  No exceptions.
 
 <hr>
 
 ## 3. Your Tri 2 project.  
 
 You are to make a lesson about any of the topics we've covered in this class.  It can be as micro as teaching a school aged student how to create `<div>`'s, or it can be as macro as teaching someone about how the internet works.  You can choose whatever you'd like, so long as you get it approved by Mr. DeBottis or myself.  However, once you choose a topic, you gotta follow through with it.  No take backs!
+
+P.S. You can work together, up to a group of 3, but your presentation MUST be 5 minutes PER person.  You will all share the same grade.  You need to come to us if one of your group members is not being held accountable.  
 
 ### Format/Requirements
 
@@ -34,5 +36,5 @@ You are to make a lesson about any of the topics we've covered in this class.  I
 
 - Bootstrap demo
 
-- Teach me why `console.log()` is important.  
+- Teach me why `console.log()` are important.  
 
