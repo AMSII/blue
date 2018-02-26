@@ -4,17 +4,17 @@
 
 1) What is the HTML shortcut we type into Sublime before pressing `tab`?
 
-a) `htm`
-b) `<htm`
-c) `<html>`
-d) `html`
+1. `htm`
+2. `<htm`
+3. `<html>`
+4. `html`
 
 2) What is not a valid 'color' format in CSS?
 
-a) hex wheel
-b) color name
-c) palette number
-d) rgb
+1. hex wheel
+2. color name
+3. palette number
+4. rgb
 
 3) Based on this code sample...
 
@@ -24,11 +24,11 @@ d) rgb
 
 Why won't this code run?
 
-a) The `<p>` needs to be capitalized
-b) The `<h1>` and `<p>` are on the same line
-c) There is a `.` within the closing `<h1>` tag
+1. The `<p>` needs to be capitalized
+2. The `<h1>` and `<p>` are on the same line
+3. There is a `.` within the closing `<h1>` tag
 
-4) What is the proper way of writing a console log in JS?
+4. What is the proper way of writing a console log in JS?
 
 a) `consolelog(hello)`
 b) `console.log(hello)`
@@ -108,6 +108,8 @@ d) 14
 	<link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
+
+
 
 
 
