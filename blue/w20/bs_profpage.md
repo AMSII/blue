@@ -51,6 +51,10 @@ How to make pictures into different shapes: <a href="https://www.w3schools.com/b
 
 Typography: <a href="https://www.w3schools.com/bootstrap4/bootstrap_typography.asp">https://www.w3schools.com/bootstrap4/bootstrap_typography.asp</a>
 
+<hr>
+
+<h2><a href="https://hackerthemes.com/bootstrap-cheatsheet/">https://hackerthemes.com/bootstrap-cheatsheet/</a>
+
 
 - Remember, 12 units per row.  You can stagger class sizes, like...
 
