@@ -193,6 +193,53 @@ a) `myCar.year` <br>
 b) `myCar(year)` <br>
 c) `myCar["year"]` <br>
 
+24) Which of these styles is for pushing an element away from *only* the left side of the page?
+
+a) `margin-left` <br>
+b) `margin` <br>
+c) `padding-left` <br>
+d) `move-left` <br>
+
+## Part 1-b: Answer the questions
+
+```js
+const prompt = prompt("How many dice are you using?");
+const num = parseInt(prompt);
+
+function rollDice(num){
+  let i=0;
+  while(i<num){
+    const die = Math.floor(Math.random() * 6) + 1;
+    console.log("dice " + (i+1) + " = " + die);
+    i++
+  }
+
+rollDice(num);
+```
+
+1) What is this function trying to do?
+
+```
+
+
+
+```
+
+2) Based on context, what do you think this line is doing
+
+`const die = Math.floor(Math.random() * 6) + 1;` ?
+
+```
+
+
+```
+
+3) Will this code execute?  If not, why not?
+
+```
+
+
+```
 
 ## Part 2: Open Response
 
