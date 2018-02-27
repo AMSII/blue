@@ -139,9 +139,16 @@ c) Nope <br>
 
 17) Writing a console log is the same as writing this kind of JS statement
 
-a) `print`
-b) `alert`
-c) `prompt`
+a) `print` <br>
+b) `alert` <br>
+c) `prompt` <br>
+
+18) Writing this type of style would allow our element to animate over X seconds?
+
+a) `translate-duration: 5s;` <br>
+b) `transition: duration: 5s;` <br>
+c) `translation-duration: 5s;` <br>
+d) `animate: 3s;` <br>
 
 ## Part 2: Open Response
 
