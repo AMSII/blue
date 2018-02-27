@@ -48,6 +48,7 @@ a) `<li>` <br>
 b) `<ol>` <br>
 c) `<ul>` <br>
 d) none of the above <br>
+<br>
 
 ### This function below is for Questions 7-9
 
@@ -163,7 +164,7 @@ a) `arr.add(Bugs Bunny);` <br>
 b) `arr.pop('Bugs Bunny');` <br>
 c) `arr.push('Bugs Bunny');` <br>
 d) This is not a possible task <br>
-
+<br>
 21) How many default sized headers do we have (e.g. `<h1>`)?
 
 a) 4 <br>
