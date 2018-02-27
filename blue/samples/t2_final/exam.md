@@ -320,7 +320,64 @@ rollDice(num);
 
 
 
+
+
+
+
+
+
 </body>
 </html>
 ```
 
+3) Try to draw what you think is happening here!
+
+```html
+<!DOCTYPE html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <p class="lead">Hello, children</p>
+      </div>
+      <div class="col" id="mid">
+        <p>Doggie below</p>
+        <img src="cute_doggie.jpg">
+      </div>
+      <div class="col" id="last">
+        <h2>School is great</h2>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript" src="scripts.js"></script>
+</body>
+</html>                            
+```
+
+```css
+body{
+	text-align: center;
+}
+div.container{
+	margin-top: 50px;
+}
+div.col{
+	border: 1px solid black;
+	height: 500px;
+	background-color: skyblue;
+}
+div#mid{
+	background-color: magenta;
+}
+div#last{
+	background-color: pink;
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+}
+```
