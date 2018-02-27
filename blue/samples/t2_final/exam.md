@@ -397,3 +397,19 @@ div#last{
 	align-items: flex-end;
 }
 ```
+
+```
+
+
+
+
+
+
+
+
+
+```
+
+4) Look at the image below
+
+<img src="circles.png">
