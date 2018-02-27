@@ -26,7 +26,7 @@ Why won't this code run?
 
 a) The `<p>` needs to be capitalized <br>
 b) The `<h1>` and `<p>` are on the same line <br>
-c) There is a `.` within the closing `<h1>` tag <br>
+c) There is a `.` within the closing `<h1>` tag 
 
 4) What is the proper way of writing a console log in JS?
 
@@ -41,6 +41,7 @@ a) `<td>` <br>
 b) `<br>` <br>
 c) `<p>` <br>
 d) `<tr>` <br>
+<br>
 
 6) The tag to create a numbered list is...
 
@@ -48,7 +49,6 @@ a) `<li>` <br>
 b) `<ol>` <br>
 c) `<ul>` <br>
 d) none of the above <br>
-<br>
 
 ### This function below is for Questions 7-9
 
