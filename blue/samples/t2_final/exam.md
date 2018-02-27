@@ -69,12 +69,13 @@ a) `namecreator(name)` <br>
 b) `nameCreator(Mr. DeBottis);` <br>
 c) `nameCreator("Mr. DeBottis");` <br>
 
-9) If I executed this function correctly, what would it say in the `console.log()`?
+9) If I executed this function correctly, what would it print in the console?
 
 a) `Syntax Error` <br>
 b) `"Mr. DeBottis is cool";` <br>
 c) `"Mr. DeBottisis cool"` <br>
 d) `"Mr. DeBottisis cool";` <br>
+e) `Mr. DeBottisis cool` <br>
 
 10) In Bootstrap's grid system, how many units wide is each container?
 
