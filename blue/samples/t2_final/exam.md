@@ -4,17 +4,17 @@
 
 1) What is the HTML shortcut we type into Sublime before pressing `tab`?
 
-1. `htm`
-2. `<htm`
-3. `<html>`
-4. `html`
+a) `htm` <br>
+b) `<htm` <br>
+c) `<html>` <br>
+d) `html` <br>
 
 2) What is not a valid 'color' format in CSS?
 
-1. hex wheel
-2. color name
-3. palette number
-4. rgb
+a) hex wheel <br>
+b) color name <br>
+c) palette number <br>
+d) rgb <br>
 
 3) Based on this code sample...
 
@@ -24,30 +24,30 @@
 
 Why won't this code run?
 
-1. The `<p>` needs to be capitalized
-2. The `<h1>` and `<p>` are on the same line
-3. There is a `.` within the closing `<h1>` tag
+a) The `<p>` needs to be capitalized <br>
+b) The `<h1>` and `<p>` are on the same line <br>
+c) There is a `.` within the closing `<h1>` tag <br>
 
-4. What is the proper way of writing a console log in JS?
+4) What is the proper way of writing a console log in JS?
 
-a) `consolelog(hello)`
-b) `console.log(hello)`
-c) `console.log("hello");`
-d) `console.log("hello")`
+a) `consolelog(hello)` <br>
+b) `console.log(hello)` <br>
+c) `console.log("hello");` <br>
+d) `console.log("hello")` <br>
 
 5) Which of the following tag is used to mark a begining of paragraph ?
 
-a) `<td>`
-b) `<br>`
-c) `<p>`
-d) `<tr>`
+a) `<td>` <br>
+b) `<br>` <br>
+c) `<p>` <br>
+d) `<tr>` <br>
 
 6) The tag to create a numbered list is...
 
-a) `<li>`
-b) `<ol>`
-c) `<ul>`
-d) none of the above
+a) `<li>` <br>
+b) `<ol>` <br>
+c) `<ul>` <br>
+d) none of the above <br>
 
 ### This function below is for Questions 7-9
 
@@ -59,29 +59,29 @@ function nameCreator(name){
 
 7) In the above function, what is `name`?
 
-a) an argument
-b) literally a name
-c) a pass
+a) an argument <br>
+b) literally a name <br>
+c) a pass <br>
 
 8) How would I execute this function?
 
-a) `namecreator(name)`
-b) `nameCreator(Mr. DeBottis);`
-c) `nameCreator("Mr. DeBottis");`
+a) `namecreator(name)` <br>
+b) `nameCreator(Mr. DeBottis);` <br>
+c) `nameCreator("Mr. DeBottis");` <br>
 
 9) If I executed this function correctly, what would it say in the `console.log()`?
 
-a) Syntax Error
-b) "Mr. DeBottis is cool";
-c) "Mr. DeBottisis cool"
-d) "Mr. DeBottisis cool";
+a) Syntax Error <br>
+b) "Mr. DeBottis is cool"; <br>
+c) "Mr. DeBottisis cool" <br>
+d) "Mr. DeBottisis cool"; <br>
 
 10) In Bootstrap's grid system, how many units wide is each container?
 
-a) 8
-b) 10
-c) 12
-d) 14
+a) 8 <br>
+b) 10 <br>
+c) 12 <br>
+d) 14 <br>
 
 
 ## Free Response
@@ -91,10 +91,18 @@ d) 14
 `"Hello, " + xyz + " I am better than you at being cool."`
 
 
+```
 
 
 
 
+
+
+
+
+
+
+```
 
 2) Replicate the below image using HTML.
 
