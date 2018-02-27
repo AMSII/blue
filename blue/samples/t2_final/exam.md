@@ -97,7 +97,7 @@ d) <> <br>
 a) `align-text: center` <br>
 b) `align-text: center;` <br>
 c) `align: center` <br>
-d) `text-align: center;` <br>
+d) `text-align: center;` <br><br>
 
 13) Which one is NOT a valid statement?
 
@@ -207,6 +207,15 @@ a) px <br>
 b) vh <br>
 c) vw <br>
 d) vmin <br>
+
+```
+
+
+
+
+
+
+```
 
 ## Part 1-b: Answer the questions
 
