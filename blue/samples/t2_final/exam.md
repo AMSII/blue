@@ -296,6 +296,11 @@ rollDice(num);
 
 ```
 
+
+```
+
+```
+
 2) Replicate the below image using HTML.
 
 <img src="sample1.png">
@@ -340,14 +345,6 @@ rollDice(num);
 </html>
 ```
 
-```
-
-
-
-
-
-
-```
 
 3) Try to draw what you think is happening here!
 
