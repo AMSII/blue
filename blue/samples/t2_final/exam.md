@@ -104,6 +104,8 @@ b) 13 != 12 <br>
 c) 13 && 13 != 14 <br>
 d) 12 % 12 = 12 <br>
 
+### This function below is for Questions 14-16
+
 ```js
 function compareNum(num1,num2){
 	if(num1 < num2){
