@@ -169,7 +169,11 @@ a) `arr.add(Bugs Bunny);` <br>
 b) `arr.pop('Bugs Bunny');` <br>
 c) `arr.push('Bugs Bunny');` <br>
 d) This is not a possible task <br>
-<br>
+
+```
+
+```
+
 21) How many default sized headers do we have (e.g. `<h1>`)?
 
 a) 4 <br>
