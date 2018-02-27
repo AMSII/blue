@@ -337,6 +337,15 @@ rollDice(num);
 </html>
 ```
 
+```
+
+
+
+
+
+
+```
+
 3) Try to draw what you think is happening here!
 
 ```html
