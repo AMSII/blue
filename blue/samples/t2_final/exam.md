@@ -71,7 +71,7 @@ c) `nameCreator("Mr. DeBottis");` <br>
 
 9) If I executed this function correctly, what would it print in the console?
 
-a) `Syntax Error` <br>
+a) `syntax error: undefined` <br>
 b) `"Mr. DeBottis is cool";` <br>
 c) `"Mr. DeBottisis cool"` <br>
 d) `"Mr. DeBottisis cool";` <br>
@@ -129,7 +129,7 @@ d) `compareNum(3,4);` <br>
 a) `num1 is less than num2` <br>
 b) `3 is less than 4` <br>
 c) `3 is greater than 4` <br>
-d) `syntax Error: undefined` <br>
+d) `syntax error: undefined` <br>
 
 16) Is there anything potentially missing from this function?
 
