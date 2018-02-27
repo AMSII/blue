@@ -408,8 +408,37 @@ div#last{
 
 
 
+
+
 ```
 
 4) Look at the image below
 
 <img src="circles.png">
+
+If I `hover` on this `div#circle`, it should travel `500px` to the right *and* change it's background color to purple *and* its `height` and `width` should increase by `200px`.  `div#circle` initial height and width should be `200px`.
+
+Write the CSS code that's required for the above things to happen.  I've included some of the basic styles you'd need.
+
+```css
+div#circle{
+	height: 		;
+	width:		;
+	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+div#circle:hover{
+
+
+
+
+
+
+
+
+}
+```
