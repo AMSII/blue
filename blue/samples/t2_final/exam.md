@@ -163,6 +163,10 @@ b) String <br>
 c) Object <br>
 d) Class <br>
 
+```
+
+```
+
 20) If we wanted to add a string `Bugs Bunny` to the end of an array `arr`, we would...
 
 a) `arr.add(Bugs Bunny);` <br>
@@ -170,9 +174,6 @@ b) `arr.pop('Bugs Bunny');` <br>
 c) `arr.push('Bugs Bunny');` <br>
 d) This is not a possible task <br>
 
-```
-
-```
 
 21) How many default sized headers do we have (e.g. `<h1>`)?
 
