@@ -60,7 +60,7 @@ function nameCreator(name){
 7) In the above function, what is `name`?
 
 a) an argument <br>
-b) literally a name <br>
+b) literally a `name` <br>
 c) a pass <br>
 
 8) How would I execute this function?
@@ -71,10 +71,10 @@ c) `nameCreator("Mr. DeBottis");` <br>
 
 9) If I executed this function correctly, what would it say in the `console.log()`?
 
-a) Syntax Error <br>
-b) "Mr. DeBottis is cool"; <br>
-c) "Mr. DeBottisis cool" <br>
-d) "Mr. DeBottisis cool"; <br>
+a) `Syntax Error` <br>
+b) `"Mr. DeBottis is cool";` <br>
+c) `"Mr. DeBottisis cool"` <br>
+d) `"Mr. DeBottisis cool";` <br>
 
 10) In Bootstrap's grid system, how many units wide is each container?
 
@@ -128,7 +128,7 @@ d) `compareNum(3,4);` <br>
 a) `num1 is less than num2` <br>
 b) `3 is less than 4` <br>
 c) `3 is greater than 4` <br>
-d) Syntax Error: Undefined <br>
+d) `syntax Error: undefined` <br>
 
 16) Is there anything potentially missing from this function?
 
