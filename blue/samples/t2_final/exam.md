@@ -150,6 +150,50 @@ b) `transition: duration: 5s;` <br>
 c) `translation-duration: 5s;` <br>
 d) `animate: 3s;` <br>
 
+19) Which of the following is not a valid data type?
+
+a) Number <br>
+b) String <br>
+c) Object <br>
+d) Class <br>
+
+20) If we wanted to add a string `Bugs Bunny` to the end of an array `arr`, we would...
+
+a) `arr.add(Bugs Bunny);` <br>
+b) `arr.pop('Bugs Bunny');` <br>
+c) `arr.push('Bugs Bunny');` <br>
+d) This is not a possible task <br>
+
+21) How many default sized headers do we have (e.g. `<h1>`)?
+
+a) 4 <br>
+b) 6 <br>
+c) 7 <br>
+d) 8 <br>
+
+22) Which is the incorrect way of defining a variable?
+
+a) `const x = 5;` <br>
+b) `int x = 5;` <br>
+c) `let x = 5;` <br>
+d) `var x = 5;` <br>
+
+```js
+const myCar = {
+	name: "Sonya",
+	make: "Acura",
+	model: "TL",
+	year: 2011
+}
+```
+
+23) Which is the incorrect way of grabbing this object's `year` value?
+
+a) `myCar.year` <br>
+b) `myCar(year)` <br>
+c) `myCar["year"]` <br>
+
+
 ## Part 2: Open Response
 
 1)  Write me a function that takes in a parameter `name` and prints...
@@ -198,4 +242,3 @@ d) `animate: 3s;` <br>
 </html>
 ```
 
-3) 
