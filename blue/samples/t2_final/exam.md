@@ -200,6 +200,13 @@ b) `margin` <br>
 c) `padding-left` <br>
 d) `move-left` <br>
 
+25) Which of the following defines a measurement in screen pixels?
+
+a) px <br>
+b) vh <br>
+c) vw <br>
+d) vmin <br>
+
 ## Part 1-b: Answer the questions
 
 ```js
