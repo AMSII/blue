@@ -263,6 +263,12 @@ rollDice(num);
 
 
 
+
+
+
+
+
+
 ```
 
 2) Replicate the below image using HTML.
