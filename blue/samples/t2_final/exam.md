@@ -35,7 +35,7 @@ b) `console.log(hello)` <br>
 c) `console.log("hello");` <br>
 d) `console.log("hello")` <br>
 
-5) Which of the following tag is used to mark a begining of paragraph ?
+5) Which of the following tag is used to mark a beginning of paragraph ?
 
 a) `<td>` <br>
 b) `<br>` <br>
@@ -136,6 +136,12 @@ d) `syntax error: undefined` <br>
 a) You could use an `else` statement in case `num1 = num2` <br>
 b) You need another `else if` statement in case `num1 = num2` <br>
 c) Nope <br>
+
+17) Writing a console log is the same as writing this kind of JS statement
+
+a) `print`
+b) `alert`
+c) `prompt`
 
 ## Part 2: Open Response
 
