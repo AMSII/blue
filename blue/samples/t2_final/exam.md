@@ -348,6 +348,8 @@ rollDice(num);
 
 3) Try to draw what you think is happening here! (5 pts)
 
+P.S. Draw on the back side of this sheet!
+
 ```html
 <!DOCTYPE html>
 <head>
