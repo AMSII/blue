@@ -345,6 +345,47 @@ rollDice(num);
 </html>
 ```
 
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
 
 3) Try to draw what you think is happening here!
 
@@ -449,5 +490,19 @@ div#circle:hover{
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 }
 ```
+
+5) 
