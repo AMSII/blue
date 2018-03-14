@@ -1,6 +1,6 @@
 # T2 Final
 
-## Part 1: Multiple Choice.
+## Part 1: Multiple Choice (2 pts each)
 
 1) What is the HTML shortcut we type into Sublime before pressing `tab`?
 
@@ -246,7 +246,7 @@ function rollDice(num){
 rollDice(num);
 ```
 
-1) What is this function trying to do?
+1) What is this function trying to do? (3 pts)
 
 ```
 
@@ -254,7 +254,7 @@ rollDice(num);
 
 ```
 
-2) Based on context, what do you think this line is doing
+2) Based on context, what do you think this line is doing (3 pts)
 
 `const die = Math.floor(Math.random() * 6) + 1;` ?
 
@@ -263,14 +263,14 @@ rollDice(num);
 
 ```
 
-3) Will this code execute?  If not, why not?
+3) Will this code execute?  If not, why not? (3 pts)
 
 ```
 
 
 ```
 
-## Part 2: Open Response
+## Part 2: Open Response (6 pts)
 
 1)  Write me a function that takes in a parameter `name` and prints...
 
@@ -301,7 +301,7 @@ rollDice(num);
 
 ```
 
-2) Replicate the below image using HTML.
+2) Replicate the below image using HTML. (10 pts)
 
 <img src="sample1.png">
 
@@ -346,7 +346,7 @@ rollDice(num);
 ```
 
 
-3) Try to draw what you think is happening here!
+3) Try to draw what you think is happening here! (5 pts)
 
 ```html
 <!DOCTYPE html>
@@ -486,7 +486,7 @@ div#last{
 ```
 
 
-4) Look at the image below
+4) Look at the image below (7 pts)
 
 <img src="circles.png">
 
@@ -529,7 +529,13 @@ div#circle:hover{
 
 
 
+
+
+
+
+
+
 }
 ```
 
-5) 
+5) Draw your own web page, then write the code for it!  Incorpate some HTML and CSS elements as you're creating this.  Have fun! (8 pts)
