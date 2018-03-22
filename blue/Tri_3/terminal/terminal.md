@@ -1,10 +1,9 @@
-# Terminal Basics & Navigating the File System
+# Terminal - An Introduction
 
 ### Learning Objectives
 - Open apps and navigate your computer via terminal
 - Summarize basic file system structure
 - Explain the difference between relative and absolute pathing
-- Open files using our text editor
 
 ##### Why this is important
 
@@ -77,13 +76,14 @@ Q: What is ping?
 
 -----
 
-##### Best Friends
-• `pwd` = "Print Working Directory"
-• `cd` = "Change directory"
-• `ls` = list contents of directory
-• `ls -la` = Detailed list of contents
-• `mkdir` = Create directory (Folder)
-• `touch` = Create file
+#### Basic Commands
+
+• `pwd` = "Print Working Directory" <br>
+• `cd` = "Change directory"<br>
+• `ls` = list contents of directory<br>
+• `ls -la` = Detailed list of contents<br>
+• `mkdir` = Create directory (Folder)<br>
+• `touch` = Create file<br>
 
 ##### Exercise 
 
@@ -112,7 +112,45 @@ Pathing refers to method in which files/folders are recognized within a file sys
 
 ### Absolute Pathing
 
+Imagine this file structure.
 
+```
+root
+-----------------
+	> desktop
+		----------------
+		> project_one
+			> index.html
+			> images
+				> image1.jpg
+				> image2.jpg
+			> css
+				> styles.css
+			> js
+				> scripts.js
+		-----------------
+		> papers
+			> essay.docx
+			> poem1.docx
+	-----------------
+	> music
+	-----------------
+	> documents
+	-----------------
+```
+
+An absolute path is defined as the specific location of a file or folder from the `root` directory. 
+
+The absolute path for my `project_one` folder would be `cd /users/alee27/desktop/project_one`
+
+
+- Think of absolute pathing as the EXACT "address" for a file/folder.
+- One advantage is that it can be accessed from anywhere since I am explicitly stating the exact location of the file/folder.
+
+What would be the absolute path for the `images` folder?
 
 ### Relative Pathing
 
+A relative path is a reference to a file or folder **relative** to the current position, or the present working directory (`pwd`).
+
+It's like giving directions to Central Park without mentioning a specific address. Once you go outside the building, take a left and go up 10 blocks.
