@@ -24,11 +24,9 @@ Shell is simply a type of command line program, which contains a very simple, te
 
 - Launch the command prompt off terminal.
 	- ⌘ (Command) + Space
-	- "*Terminal"
+	- "*Terminal*"
 	- `Enter`
-- Since we'll be using terminal often, I strongly suggest you keep it locked in your dock.
-	- Right click on the icon, highlight options, ensure the "Keep in Dock" is checked.
-
+	
 - When terminal launches, it will innately start off your computer's root directory (whatever the computer is named off of).
 
 ### What is root?
@@ -56,7 +54,9 @@ If you need to navigate to your root directory...
 - Close current tab
 `⌘-W`
 
-- Let's execute a process from our terminal. Let's use the ping utility for example sake...
+- Let's execute a process from our terminal. Let's use the ping utility.
+
+For example...
 
 `ping 127.0.0.1`
 
@@ -154,3 +154,44 @@ What would be the absolute path for the `images` folder?
 A relative path is a reference to a file or folder **relative** to the current position, or the present working directory (`pwd`).
 
 It's like giving directions to Central Park without mentioning a specific address. Once you go outside the building, take a left and go up 10 blocks.
+
+
+Using the same file structure from above...
+
+```
+root
+-----------------
+	> desktop
+		----------------
+		> project_one
+			> index.html
+			> images
+				> image1.jpg
+				> image2.jpg
+			> css
+				> styles.css
+			> js
+				> scripts.js
+		-----------------
+		> papers
+			> essay.docx
+			> poem1.docx
+	-----------------
+	> music
+	-----------------
+	> documents
+	-----------------
+```
+
+Using "Relative Pathing", we could reach the "Desktop" directory by merely typing...
+
+`cd desktop`
+
+This only works if we're starting from your `root` directory.  How would you make sure you're there?
+
+##### Brief Recap
+
+`cd desktop` is the same as `cd /users/alee27/desktop`.  As you can tell, typing one version is a lot easier than typing the other.
+
+
+
