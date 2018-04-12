@@ -1,5 +1,7 @@
 # Terminal - An Introduction
 
+## Lesson Here: https://bit.ly/2IOvLqu
+
 ### Learning Objectives
 - Open apps and navigate your computer via terminal
 - Summarize basic file system structure
