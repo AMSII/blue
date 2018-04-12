@@ -26,8 +26,16 @@ Shell is simply a type of command line program, which contains a very simple, te
 	- ⌘ (Command) + Space
 	- "*Terminal*"
 	- `Enter`
-	
+
 - When terminal launches, it will innately start off your computer's root directory (whatever the computer is named off of).
+
+### do *NOW*
+
+Copy (Command-C) this line below, and then paste it into your terminal.  Then, press RETURN.
+
+```
+ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublime
+```
 
 ### What is root?
 
@@ -85,6 +93,22 @@ Q: What is ping?
 • `mkdir` = Create directory (Folder)<br>
 • `touch` = Create file<br>
 
+##### Follow the steps:
+
+Try to see what's happening as you type through these commands:
+
+- Open terminal
+- `cd ~` 
+- `pwd` to confirm you're in your root.
+- `ls` to see the contents of where you're currently located
+- `cd documents` to change the directory to the "Documents" folder 
+- `pwd` to confirm your location
+- `mkdir test_folder` to create a new folder inside of "Documents" called "test_folder"
+- 
+
+
+-----
+
 ##### Exercise 
 
 - Using just terminal and the command line, do the following.
@@ -104,7 +128,6 @@ Q: What is ping?
 - CD out of this folder up one level using `cd ../`
 - CD up another level by using `cd ../` again
 - Which directory are you now in? Confirm using `pwd`
-
 
 ### Pathing
 
@@ -193,5 +216,5 @@ This only works if we're starting from your `root` directory.  How would you mak
 
 `cd desktop` is the same as `cd /users/alee27/desktop`.  As you can tell, typing one version is a lot easier than typing the other.
 
-
+-----
 
