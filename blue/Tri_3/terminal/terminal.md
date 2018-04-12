@@ -92,6 +92,9 @@ Q: What is ping?
 • `ls -la` = Detailed list of contents<br>
 • `mkdir` = Create directory (Folder)<br>
 • `touch` = Create file<br>
+- `rm` to delete a file <br>
+- `rm -r` to remove a directory <br>
+
 
 ##### Follow the steps:
 
@@ -104,8 +107,6 @@ Try to see what's happening as you type through these commands:
 - `cd documents` to change the directory to the "Documents" folder 
 - `pwd` to confirm your location
 - `mkdir test_folder` to create a new folder inside of "Documents" called "test_folder"
-- `rm` to delete a file
-- `rm -r` to remove a directory
 
 -----
 
