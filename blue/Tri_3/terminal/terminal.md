@@ -104,8 +104,8 @@ Try to see what's happening as you type through these commands:
 - `cd documents` to change the directory to the "Documents" folder 
 - `pwd` to confirm your location
 - `mkdir test_folder` to create a new folder inside of "Documents" called "test_folder"
-- 
-
+- `rm` to delete a file
+- `rm -r` to remove a directory
 
 -----
 
@@ -117,7 +117,7 @@ Try to see what's happening as you type through these commands:
 [CLI Cheatsheet](http://www.git-tower.com/blog/command-line-cheat-sheet/)
 
 - Open Terminal
-- `PWD` to confirm you're in your root
+- `pwd` to confirm you're in your root
 - If you're not in your root, `cd ~` to get there.
 - Change directory to `/Desktop`
 - Make a new directory on your desktop called `sample_directory`
